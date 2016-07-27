@@ -1,0 +1,22 @@
+
+*{
+		margin: 0 auto;
+	}
+	.bigbox{
+		background-color: blue;
+	}
+	
+	.itembox{
+		width: 200px;
+		height: 200px;
+		background-color: red;
+		float: left;
+		color:white;
+		text-align: center;
+	}
+	.itembox:hover{
+		background-color: #f1f1f1;
+	}
+	.center{
+		margin: 0 auto;
+	}
